@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ecomerce-React-App-/static/css/main.9b3a0626.css",
+    "main.js": "/Ecomerce-React-App-/static/js/main.f575b81e.js",
+    "static/js/453.4c692a4e.chunk.js": "/Ecomerce-React-App-/static/js/453.4c692a4e.chunk.js",
+    "index.html": "/Ecomerce-React-App-/index.html",
+    "main.9b3a0626.css.map": "/Ecomerce-React-App-/static/css/main.9b3a0626.css.map",
+    "main.f575b81e.js.map": "/Ecomerce-React-App-/static/js/main.f575b81e.js.map",
+    "453.4c692a4e.chunk.js.map": "/Ecomerce-React-App-/static/js/453.4c692a4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3a0626.css",
+    "static/js/main.f575b81e.js"
+  ]
+}
